@@ -1,0 +1,10 @@
+.head{
+	margin: auto;
+	font-family: courier;
+	font-weight: bold;
+	font-size: 23px;
+}
+body{
+	margin: 0px;
+	overflow: hidden;
+}
