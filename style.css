@@ -1,10 +1,25 @@
 .head{
-	margin-left: 50vw - 23;
+	position: absolute;
 	font-family: courier;
-	font-weight: bold;
 	font-size: 23px;
+	left: calc(50vw - 120px);
 }
 body{
 	margin: 0px;
 	overflow: hidden;
+	
+}
+#input {
+	width: 100;
+	margin-left: calc(50vw - 100px);
+	margin-top: 26px;
+}
+p{
+	position: absolute;
+	font-family: courier;
+	font-weight: bold; 
+	font-size: 23px;
+	left: 23vw;
+	top: 0px;
+
 }
